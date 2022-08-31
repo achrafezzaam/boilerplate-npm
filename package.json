@@ -1,5 +1,6 @@
 {
-	"author": " achraf ezzaam ",
+	"author": "Achraf Ezzaam",
+	"description": "A project with nodejs using the express framework to get the freecodecamp backend certification",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
